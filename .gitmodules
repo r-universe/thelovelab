@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "DESeq2"]
+	path = DESeq2
+	url = https://github.com/thelovelab/deseq2
+[submodule "fishpond"]
+	path = fishpond
+	url = https://github.com/thelovelab/fishpond
+[submodule "tximeta"]
+	path = tximeta
+	url = https://github.com/thelovelab/tximeta
+[submodule "tximport"]
+	path = tximport
+	url = https://github.com/thelovelab/tximport
